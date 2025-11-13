@@ -13,11 +13,11 @@ if x < y and x < z:
 elif y < x and y < z:
     print(y)
     if x < z:
-        print(y)
+        print(X)
         print(z)
     else:
         print(z)
-        print(y)
+        print(X)
 elif z < y and z < x:
     print(z)
     if y < x:
